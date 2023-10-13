@@ -1,7 +1,8 @@
 - 👋 Hi,
                                                                    I’m @SaurabhTapkir
-- 👀 I’m Passionate to Learning New Skill
+- 👀 I’m Passionate to Learning New Skill ,self Learner 
 - Loved To Creating web-templates,Android UI
+- Love To Exploring New Skills
   'Learning is Never Ending Path ,
       Never Stop Learning ...'
   Learn Share Upgrade...  
